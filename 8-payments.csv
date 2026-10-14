@@ -1,0 +1,5 @@
+id,payer,amount,memo
+P1,ACME Corporation,1200.00,pay INV-101
+P2,Globex LLC,900.00,
+P3,Initech Inc.,500.00,INV-301
+P4,Umbrella Co,75.00,misc

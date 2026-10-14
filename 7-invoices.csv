@@ -1,0 +1,6 @@
+id,customer,amount_due
+INV-101,Acme Corp,1200.00
+INV-201,Globex,400.00
+INV-202,Globex,500.00
+INV-301,Initech,550.00
+INV-401,Hooli,75.00
